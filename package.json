@@ -1,0 +1,9 @@
+{
+  "name": "@ryan.ha410/rantea",
+  "version": "1.0.0",
+  "description": "A special Quest for tea.xyz",
+  "main": "index.js",
+  "author": "@ryan.ha410",
+  "repository": "https://github.com/ryanha410/rantea.git",
+  "license": "MIT"
+}
